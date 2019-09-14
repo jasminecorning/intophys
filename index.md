@@ -2,9 +2,13 @@
 ## Welcome to Physics 104/106! (Again)
 
 ### A Little Bit About Your TA
-<p align="center">
-_Name_: Jasmine</p>
 
-<p align="center">_Game_: Astroparticle Physics, looking for dark matter on the <a href="">DEAP-3600 Collaboration</a>.
-</p>
-<p align="center"><img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/17362500_1904944146385346_9196893292954200313_n.png?_nc_cat=107&_nc_oc=AQmClXRV9nnklInbc3eknQhVNwwyn3mSeRCXr6NeJubyMQX7Jx_q_smbY1rCIUZaT-DSf7QGYVPAerCc2kFVjAsO&_nc_ht=scontent-yyz1-1.xx&oh=502fd528ae868a52aff7a61dc5452de3&oe=5DF79040"></p>
+<p align="center"><i>Name</i>: Jasmine. <i>Game</i>: Astroparticle Physics, looking for dark matter on the <a href="http://deap3600.ca/">DEAP-3600 Collaboration</a>. <i>Useless hobbies</i>: Embrodiery, drinking iced coffee, cuddling cats, watching reality television.</p>
+
+<p align="center"><img src="https://i.imgur.com/wWQcyZy.png"></p>
+
+
+### Nice to meet you!... Here's a quiz.
+
+<p align="center">You'll have bi-weekly quizzes, where here bi-weekly means once every two weeks (since apparently the definition can vary). Your first quiz was open-"book" (computer), but the rest will not be, though you will always be provided an extensive formula sheet. I will take up the solutions to the quiz once everyone's done writing (unless everyone knows what's up, then I won't waste time).</p>
+
