@@ -22,8 +22,6 @@
 
 ### Lab 2 (aka Lab 1)
 
-<p align="justify"><i>First half: Setting up group guidelines and learning the system.</i></p>
-
 * Download the 'Labtorial2' file from Week 2 on OnQ (extension .ipynb).
 * Log into <a href="https://queensu.syzygy.ca/">Syzygy</a> using your NetID.
 * You should now be in your directory 'tree' - look for /netid/tree in the url. Upload your Labtorial2 file.
