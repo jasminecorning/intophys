@@ -30,3 +30,9 @@
 * Click on the name of the file to open the notebook in a new tab, and follow the listed instructions.
   * This starts running what is called a 'kernel.' You can see the status of the kernel on the top menu bar - you should see a message telling you the kernel is starting, and then that kernel is ready upon the tab opening. <i>If your kernel freezes/stops running, go to the tab with your directory tree (/netid/tree) and refresh. <b>Do not refresh the page with your notebook, as unsaved work could be lost.</b> Once your tree reconnects, your notebook kernel should also.</i>
 * Upload your group selfie through <a href="https://imgur.com">Imgur</a>. Once it's uploaded, right click to "Open Image in New Tab" and copy that direct image URL into the designated line on your notebook.
+* <i>Installing QExpy:</i>
+  * Once you've installed QExpy in the Terminal, save your notebook and close it. In your directory tree, select the notebook and hit the option "Shutdown." This will stop the kernel, and opening it again by clicking on the name will restart it. If you don't restart the kernel, your notebook won't recognize that QExpy has been installed.
+* <i>Note:</i> Once you've ran your cell that imports QExpy, all following cells will have QExpy imported, so there's no need for additional import statements.
+* <b>Everyone in the group with a laptop should at least go as far as installing and doing the basic QExpy functions, to get familiar with them. </b>Only one notebook needs to be submitted per group.
+* To save your notebook, please use your <i>browser</i> menu. Go to File -> Print -> Save as PDF. Please check the print preview to ensure all your pages are there, and all your code is compiled and shows any outputs needed.
+* Upload this PDF to the 'Labtorial x upload' dropbox on OnQ, by the end of the labtorial period (5:30pm).
