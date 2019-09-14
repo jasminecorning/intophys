@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Week 2
+## Welcome to Physics 104/106! (Again)
 
-You can use the [editor on GitHub](https://github.com/jasminecorning/intophys/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### A Little Bit About Your TA
+<p align="center">
+_Name_: Jasmine</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasminecorning/intophys/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p align="center">_Game_: Astroparticle Physics, looking for dark matter on the <a href="">DEAP-3600 Collaboration</a>.
+</p>
+<p align="center"><img src="https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/17362500_1904944146385346_9196893292954200313_n.png?_nc_cat=107&_nc_oc=AQmClXRV9nnklInbc3eknQhVNwwyn3mSeRCXr6NeJubyMQX7Jx_q_smbY1rCIUZaT-DSf7QGYVPAerCc2kFVjAsO&_nc_ht=scontent-yyz1-1.xx&oh=502fd528ae868a52aff7a61dc5452de3&oe=5DF79040"></p>
