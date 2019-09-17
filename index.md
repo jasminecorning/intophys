@@ -7,6 +7,12 @@
 
 <p align="center"><img src="https://i.imgur.com/wWQcyZy.png"></p>
 
+### Groups
+
+<p align="center"><i>Group 27:</i> Christopher Shen, Daniel Amodeo, Noah Glidden, Michael Watkins</p>
+<p align="center"><i>Group 28:</i> Aidan Duggan, Zhimu Wang, Myles Fox, Aidan Hall</p>
+<p align="center"><i>Group 29:</i> Linus Hartner, Alexander Li, Matthew Lightheart, Michael McCue</p>
+<p align="center"><i>Group 30:</i> Jingjing Mao, Sahana Nayaka, Ryan Raschle, Baiyang Yu</p>
 
 ### Nice to meet you!... Here's a quiz.
 
