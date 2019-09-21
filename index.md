@@ -1,6 +1,7 @@
 # Week 3
 
-Welcome back! Please start with the Labtorial 'Group Norms' section before moving onto the tutorial work. This is part of your overall professionalism grade.</p>
+Welcome back! Please start with the Labtorial 'Group Norms' section before moving onto the tutorial work. This is part of your overall professionalism grade.
+
 <i><b>Reminder:</b> Any labtorial work not submitted by 5:30pm on Wednesday will not be marked.</i>
 
 <p align="center"><img src="https://i.imgur.com/qyoP769.jpg"></p>
