@@ -8,7 +8,7 @@
 
 <p align="center"><i>Group 27:</i> Christopher Shen, Daniel Amodeo, Noah Glidden, Michael Watkins, Han Zheng</p>
 <p align="center"><i>Group 28:</i> Aidan Duggan, Zhimu Wang, Myles Fox, Aidan Hall</p>
-<p align="center"><i>Group 29:</i> Linus Hartner, Alexander Li, Matthew Lightheart, Michael McCue, Li Zhu</p>
+<p align="center"><i>Group 29:</i> Linus Hartner, Alexander Li, Matthew Lightheart, Li Zhu</p>
 <p align="center"><i>Group 30:</i> Jingjing Mao, Sahana Nayaka, Ryan Raschle, Alex Yu, Elizabeth Charette</p>
 
 ### Assignment 4
