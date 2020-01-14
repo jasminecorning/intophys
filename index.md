@@ -1,19 +1,19 @@
-# Week 13
+# Week 14
 
 ### General Notes
 
-<p align="center"><img src="https://i.redd.it/9krmdey6rg841.jpg"></p>
+<p align="center"><img src="https://i.redd.it/nbqj0mzbnr941.jpg"></p>
 
 ### Groups - New!
 
-<p align="center"><i>Group 23:</i> Noah, Aiden D., Daniel, Asa</p>
-<p align="center"><i>Group 24:</i> Michael, Ryan, Alex Y., Aiden H.</p>
+<p align="center"><i>Group 23:</i> Noah, Aidan D., Daniel, Asa</p>
+<p align="center"><i>Group 24:</i> Michael, Ryan, Alex L., Aidan H.</p>
 <p align="center"><i>Group 25:</i> Christopher, Bill, Matt, Linus</p>
-<p align="center"><i>Group 26:</i> Elizabeth, Sahana, Jingjing, Alex L.</p>
+<p align="center"><i>Group 26:</i> Elizabeth, Sahana, Jingjing, Alex W.</p>
 
-### Assignment 13
+### Assignment 14
 
-<p align="center">Please work on: <b>Questions 1, 3, 4</b>.</p>
+<p align="center">Please work on: <b>Questions 2, 4, 6</b>.</p>
 <p align="justify">Do all work with your group on the provided whiteboard panels. Designate one group member per week to do all whiteboard writing, and rotate this every week. No notebooks! Take a picture of your whiteboard before erasing (recommended everyone takes their own picture). One group member should be designated per week to submit all pictures on OnQ, into the "Labtorial x upload" dropbox. These should be uploaded by the end of the labtorial period (5:30pm). <i><b>Whiteboard pictures are not graded on correctness, and do not count towards your assignment submission. Everyone should submit their own individual write-up of the assignment by midnight on Friday.</b></i></p>
 
 <p align="justify">Each week (with no quiz) one group will be chosen to lead a group discussion on one of the designated tutorial questions, starting with any work they've done. These discussions will be for the last 10-15 minutes of the tutorial section time slot.</p>
