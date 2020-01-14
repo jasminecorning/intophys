@@ -33,4 +33,4 @@ You can use LaTeX (lay-tech) math notation to input formulae, etc. into your rep
 * Refer to Appendix C of your textbook for guidelines on report writing!
 * Be sure to delete all prompt text i.e. "double click to edit and answer questions".
 * To save your notebook, please use your browser menu. Go to File -> Print -> Save as PDF (or right click -> Print -> Save as PDF). Please check the print preview to ensure all your pages are there, and all your code is compiled and shows any outputs needed.
-* Upload your whiteboard pictures only to the 'Labtorial 13 upload' dropbox on OnQ, by Tuesday, 6:30pm, at the latest.
+* Upload your whiteboard pictures and lab to the 'Labtorial 14 upload' dropbox on OnQ, by Tuesday, 6:30pm, at the latest.
