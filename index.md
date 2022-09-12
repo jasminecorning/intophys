@@ -1,22 +1,32 @@
-# Week 14
+# Week 2
 
-### General Notes
+Welcome to PHYS104/106! This is a simple web resource I'll maintain with details pertaining to the labs/tutorials of the course, including: current group configurations, assignment questions to focus on in tutorial, tips and tricks for the lab software. To find course resources for all aspects of the class, go to OnQ.
 
-<p align="center"><img src="https://i.redd.it/nbqj0mzbnr941.jpg"></p>
+### Lab Groups
 
-### Groups - New!
+<p><i>Group 8:</i> Tara Meikle, Sophie Harterre, Donghyun Kim, Maxwell Dollar</p>
+<p><i>Group 9:</i> Chloe Graham, Kamyl Hornung, Alex Veron, Yukun Wu</p>
+<p><i>Group 10:</i> Yididya Tesema, Katrina Stanfield, Jack Willis, Jaden Blackman</p>
+<p><i>Group 11:</i> Lilliann Mercer, Salma Kinawi, Sean MacCarthy, Owen McIntosh</p>
+<p><i>Group 12:</i> Cory Gignac, Jenelle Hogarth, Zhengyang Yu, Kokoa Fujimaki</p>
+<p><i>Group 13:</i> Emma Sullivan, Elisabeth Mitchell, Jocelyn Armstrong, Ava Galloway</p>
 
-<p align="center"><i>Group 23:</i> Noah, Aidan D., Daniel, Asa</p>
-<p align="center"><i>Group 24:</i> Michael, Ryan, Alex L., Aidan H.</p>
-<p align="center"><i>Group 25:</i> Christopher, Bill, Matt, Linus</p>
-<p align="center"><i>Group 26:</i> Elizabeth, Sahana, Jingjing, Alex W.</p>
+### Housekeeping
 
-### Assignment 14
+How do I submit <i>*insert deliverable here*</i>? When do I need to do <i>*insert assignment here*</i>? I know, there's quite a few moving parts! This section aims to detail each one and when/how they need to be completed. The course is very repetitive, so the good thing is these won't change from now until April. All these details can also be found in the syllabus on OnQ.
+<p><b>Quizzes:</b> Every two weeks, written on paper at the start of the labtorial section (starting in Week 2, so they will only be on even numbered weeks). Done individually and in lab groups. Marked by TA. Worth a combined 20% of the final grade.</p>
+<p><b>Labs:</b> Done every week during half of the labtorial time slot (between 1-1.5 hours, depending on if there is a quiz - see above!), due at the end of the day Wednesday. One submission per group as a PDF to OnQ. Later in the term, you will have two weeks to complete more involved labs. Marked by TA. Worth a combined 20% of the final grade.</p>
+<p><b>Assignments:</b> Due every week at 11:59pm on Friday, uploaded individually to Crowdmark. You will work through questions as a group in the tutorial section of the labtorials (between 1-1.5 hours) and submit pictures to OnQ to show progress, but these <i>do not</i> count towards your final assignment submission. Marked by upper year undergraduate graders. Worth a combined 20% of the final grade.</p>
+<p><b>Reading Assignments:</b> Due every Sunday at 11:59pm, completed on Qlicker. Based on the assigned readings from the textbook, consisting mostly of multiple choice questions and a few long answers. Long answers marked by TA. Worth a combined 5% of the final grade.</p>
+<p><b>Assimiliation Quizzes:</b> Due every Sunday at 11:5pm, completed on Qlicker. Based on content of the previous week, consisting of multiple choice questions. Automatically graded. Worth a combined 5% of the final grade.</p>
+<p><b>End-of-Term Exam:</b> Completed on paper, in groups and individually. There is no midterm (December exam serves as 'midterm'). Marked by TAs, anonymously. Worth 25% of the final grade each.</p>
 
-<p align="center">Please work on: <b>Questions 2, 4, 6</b>.</p>
-<p align="justify">Do all work with your group on the provided whiteboard panels. Designate one group member per week to do all whiteboard writing, and rotate this every week. No notebooks! Take a picture of your whiteboard before erasing (recommended everyone takes their own picture). One group member should be designated per week to submit all pictures on OnQ, into the "Labtorial x upload" dropbox. These should be uploaded by the end of the labtorial period (5:30pm). <i><b>Whiteboard pictures are not graded on correctness, and do not count towards your assignment submission. Everyone should submit their own individual write-up of the assignment by midnight on Friday.</b></i></p>
+### Assignment 2 (First Assignment)
 
-<p align="justify">Each week (with no quiz) one group will be chosen to lead a group discussion on one of the designated tutorial questions, starting with any work they've done. These discussions will be for the last 10-15 minutes of the tutorial section time slot.</p>
+<p align="center">Please work on: <b>Questions 1, 3, and 5</b>.</p>
+<p align="justify">Do all work with your group on the provided whiteboard panels. You should designate one group member per week to do all whiteboard writing, and rotate this role every week. No notebooks! Take a picture of your whiteboard before erasing thoroughly (recommended everyone takes their own picture). One group member should be designated each week to submit all pictures on OnQ, into the "Labtorial x upload" dropbox. These should be uploaded by the end of the labtorial period (5:30pm). <i><b>Whiteboard pictures are not graded on correctness, and do not count towards your assignment submission. Everyone should submit their own individual write-up of the assignment by 11:59pm on Friday.</b></i></p>
+<p align="center"><img src="https://i.imgur.com/3C6sVKE.png" width="200"></p>
+<p align="center"></img><img src="https://i.imgur.com/Mnt3sJE.png" width="200"></img></p>
 
 ### Lab 13-14 - Two Week Lab
 
