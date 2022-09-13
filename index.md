@@ -26,21 +26,25 @@ How do I submit <i>*insert deliverable here*</i>? When do I need to do <i>*inser
 <p align="center">Please work on: <b>Questions 1, 3, and 5</b>.</p>
 <p align="justify">Do all work with your group on the provided whiteboard panels. You should designate one group member per week to do all whiteboard writing, and rotate this role every week. No notebooks! Take a picture of your whiteboard before erasing thoroughly (recommended everyone takes their own picture). One group member should be designated each week to submit all pictures on OnQ, into the "Labtorial x upload" dropbox. These should be uploaded by the end of the labtorial period (5:30pm). <i><b>Whiteboard pictures are not graded on correctness, and do not count towards your assignment submission. Everyone should submit their own individual write-up of the assignment by 11:59pm on Friday.</b></i></p>
 <p align="center"><img src="https://i.imgur.com/3C6sVKE.png" width="200"></p>
-<p align="center"></img><img src="https://i.imgur.com/Mnt3sJE.png" width="200"></img></p>
+<p align="center"><img src="https://i.imgur.com/Mnt3sJE.png" width="200"></p>
 
-### Lab 13-14 - Two Week Lab
+### Lab 2 - QExpy Intro + Measuring the Acceleration of Gravity
 
+* Download iPython notebook from OnQ (file should have extension .ipynb).
+<p align="center"><img src="https://i.imgur.com/FxcuuAu.png" width="200">
+  
+* Log into <a href="https://queensu.syzygy.ca/">Syzygy</a> using your NetID and upload .ipynb file.
+<p align="center"><img src="https://i.imgur.com/lxs0DXX.png" width="200"></p>
+
+* <i>One lab submission per group - try to have a different member submit each week</i>.
+* Refer to Appendix C of your textbook for guidelines on report writing.
+* Be sure to delete all prompt text i.e. "double click to edit and answer questions."
+* To save your notebook, use your browser menu. Go to File -> Print -> Save as PDF (or right click -> Print -> Save as PDF). Please check the print preview to ensure all your pages are there, and all your code is compiled and shows any output needed.
+* Upload your whiteboard pictures and lab to the 'Labtorial x upload' dropbox on OnQ, by the end of day on Wednesday.
+  
 You can use LaTeX (lay-tech) math notation to input formulae, etc. into your reports by enclosing statements with dollar signs in a markdown (regular text) cell. $Everything in here would be in math mode!$ In the math mode environment, you can use LaTeX syntax to make it look nicer. Useful ones include;
 
 <p align="center">Fractions: $\frac{numerator}{denominator}$</p>
 <p align="center">Super/subscripts: $x^{superscript}_{subscript}$</p>
 <p align="center">Integrals: $\int^{upper limit}_{lower limit}$</p>
 <p align="center"><a href="https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols">Pretty much any greek letter or math symbol you can think of!</a></p>
-
-* <i>One lab submission per group - try to have a different member submit each week</i>.
-* Download the 'Labtorial13-14' file from Week 13 (in Winter Weekly Schedule!) on OnQ (extension .ipynb). This is another two week lab.
-* Log into <a href="https://queensu.syzygy.ca/">Syzygy</a> using your NetID, and upload your notebook.
-* Refer to Appendix C of your textbook for guidelines on report writing!
-* Be sure to delete all prompt text i.e. "double click to edit and answer questions".
-* To save your notebook, please use your browser menu. Go to File -> Print -> Save as PDF (or right click -> Print -> Save as PDF). Please check the print preview to ensure all your pages are there, and all your code is compiled and shows any outputs needed.
-* Upload your whiteboard pictures and lab to the 'Labtorial 14 upload' dropbox on OnQ, by Tuesday, 6:30pm, at the latest.
