@@ -8,7 +8,7 @@ Welcome to PHYS104/106! This is a simple web resource I'll maintain with details
 <p><i>Group 9:</i> Chloe Graham, Kamyl Hornung, Alex Veron, Yukun Wu</p>
 <p><i>Group 10:</i> Yididya Tesema, Katrina Stanfield, Jack Willis, Jaden Blackman</p>
 <p><i>Group 11:</i> Lilliann Mercer, Salma Kinawi, Sean MacCarthy, Owen McIntosh</p>
-<p><i>Group 12:</i> Cory Gignac, Jenelle Hogarth, Zhengyang Yu, Kokoa Fujimaki</p>
+<p><i>Group 12:</i> Cory Gignac, Zhengyang Yu, Kokoa Fujimaki</p>
 <p><i>Group 13:</i> Emma Sullivan, Elisabeth Mitchell, Jocelyn Armstrong, Ava Galloway</p>
 
 ### Housekeeping
