@@ -4,12 +4,12 @@ Welcome to PHYS104/106! This is a simple web resource I'll maintain with details
 
 ### Lab Groups
 
-<p><i>Group 8:</i> Tara Meikle, Sophie Harterre, Donghyun Kim, Maxwell Dollar</p>
+<p><i>Group 8:</i> Tara Meikle, Sophie Harterre, Don Kim, Maxwell Dollar</p>
 <p><i>Group 9:</i> Chloe Graham, Kamyl Hornung, Alex Veron, Yukun Wu</p>
 <p><i>Group 10:</i> Yididya Tesema, Katrina Stanfield, Jack Willis, Jaden Blackman</p>
-<p><i>Group 11:</i> Lilliann Mercer, Salma Kinawi, Sean MacCarthy, Owen McIntosh</p>
-<p><i>Group 12:</i> Cory Gignac, Zhengyang Yu, Kokoa Fujimaki</p>
-<p><i>Group 13:</i> Emma Sullivan, Elisabeth Mitchell, Jocelyn Armstrong, Ava Galloway</p>
+<p><i>Group 11:</i> Lilli Mercer, Salma Kinawi, Sean MacCarthy, Owen McIntosh</p>
+<p><i>Group 12:</i> Cory Gignac, Zhengyang Yu, Kokoa Fujimaki, Jeong Kim</p>
+<p><i>Group 13:</i> Emma Sullivan, Lizzie Mitchell, Jocelyn Armstrong, Ava Galloway</p>
 
 ### Housekeeping
 
@@ -37,9 +37,19 @@ How do I submit <i>*insert deliverable here*</i>? When do I need to do <i>*inser
 <p><i>One lab submission per group - try to have a different member submit each week</i>.</p>
 <p>Refer to Appendix C of your textbook for guidelines on report writing. Be sure to delete all prompt text i.e. "double click to edit and answer questions." To save your notebook, use your browser menu. Go to File -> Print -> Save as PDF (or right click -> Print -> Save as PDF). Please check the print preview to ensure all your pages are there, and all your code is compiled and shows any output needed. Upload your whiteboard pictures and lab to the 'Labtorial x upload' dropbox on OnQ, by the end of day on Wednesday.</p>
 
+### Extra Resources
+
 <p>You can use LaTeX (lay-tech) math notation to input formulae, etc. into your reports by enclosing statements with dollar signs in a markdown (regular text) cell. $Everything in here would be in math mode!$ In the math mode environment, you can use LaTeX syntax to make it look nicer. Useful ones include;</p>
 
 <p align="center">Fractions: $\frac{numerator}{denominator}$</p>
 <p align="center">Super/subscripts: $x^{superscript}_{subscript}$</p>
 <p align="center">Integrals: $\int^{upper limit}_{lower limit}$</p>
 <p align="center"><a href="https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols">Pretty much any greek letter or math symbol you can think of!</a></p>
+
+<p> For math review, I recommend videos from <a href="https://www.khanacademy.org/">Khan Academy</a>, particularly for calculus and vectors - <b>AP/College Calculus BC</b> looks to have a good overview, but a word of caution these videos go into more detail than we will cover in this course. <b>Precalculus</b> has some content on vectors, and there is some content on physics as well, including a <b>High school physics course</b> if you need review on that as well.</p>
+
+<p>Lastly, don't hesitate to email me at <b>jmc24@queensu.ca</b> if you need clarification on points, or have some specific questions about something on the assignment, or need anything at all! My inbox is always open to you and it's my job to help.</p>
+
+<p>If you made it this far, here's a meme!</p>
+<p align="center"><img src="https://preview.redd.it/t8wdm7kcojl91.jpg?width=640&crop=smart&auto=webp&s=5ca40ea570e900e6a6455f47d03d031a9ec86e3a"></p>
+<p><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">...and the explanation!</a></p>
