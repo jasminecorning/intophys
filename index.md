@@ -1,15 +1,15 @@
-# Week 2
+# Week 3
 
 Welcome to PHYS104/106! This is a simple web resource I'll maintain with details pertaining to the labs/tutorials of the course, including: current group configurations, assignment questions to focus on in tutorial, tips and tricks for the lab software. To find course resources for all aspects of the class, go to OnQ.
 
 ### Lab Groups
 
-<p><i>Group 8:</i> Tara Meikle, Sophie Harterre, Don Kim, Maxwell Dollar</p>
-<p><i>Group 9:</i> Chloe Graham, Kamyl Hornung, Alex Veron, Yukun Wu</p>
-<p><i>Group 10:</i> Yididya Tesema, Katrina Stanfield, Jack Willis, Jaden Blackman</p>
-<p><i>Group 11:</i> Lilli Mercer, Salma Kinawi, Sean MacCarthy, Owen McIntosh</p>
-<p><i>Group 12:</i> Cory Gignac, Zhengyang Yu, Kokoa Fujimaki, Jeong Kim</p>
-<p><i>Group 13:</i> Emma Sullivan, Lizzie Mitchell, Jocelyn Armstrong, Ava Galloway</p>
+<p><i>Group 8:</i> Tara M., Sophie H., Don K., Maxwell D.</p>
+<p><i>Group 9:</i> Chloe G., Kamyl H., Alex V., Yukun W.</p>
+<p><i>Group 10:</i> Yididya T., Katrina S., Jack W.</p>
+<p><i>Group 11:</i> Lilli M., Salma K., Sean M., Owen M.</p>
+<p><i>Group 12:</i> Cory G., Zhengyang Y., Kokoa F., Jeong K.</p>
+<p><i>Group 13:</i> Emma S., Lizzie M., Jocelyn A., Ava G.</p>
 
 ### Housekeeping
 
@@ -21,14 +21,14 @@ How do I submit <i>*insert deliverable here*</i>? When do I need to do <i>*inser
 <p><b>Assimiliation Quizzes:</b> Due every Sunday at 11:5pm, completed on Qlicker. Based on content of the previous week, consisting of multiple choice questions. Automatically graded. Worth a combined 5% of the final grade.</p>
 <p><b>End-of-Term Exam:</b> Completed on paper, in groups and individually. There is no midterm (December exam serves as 'midterm'). Marked by TAs, anonymously. Worth 25% of the final grade each.</p>
 
-### Assignment 2 (First Assignment)
+### Assignment 3
 
-<p align="center">Please work on: <b>Questions 3, 4, and 6</b>.</p>
+<p align="center">Please work on: <b>Questions 1, 3, and 4</b>.</p>
 <p align="justify">Do all work with your group on the provided whiteboard panels. You should designate one group member per week to do all whiteboard writing, and rotate this role every week. No notebooks! Take a picture of your whiteboard before erasing thoroughly (recommended everyone takes their own picture). One group member should be designated each week to submit all pictures on OnQ, into the "Labtorial x upload" dropbox. These should be uploaded by the end of the labtorial period (5:30pm). <i><b>Whiteboard pictures are not graded on correctness, and do not count towards your assignment submission. Everyone should submit their own individual write-up of the assignment by 11:59pm on Friday.</b></i></p>
 <p align="center"><img src="https://i.imgur.com/3C6sVKE.png" width="200"></p>
 <p align="center"><img src="https://i.imgur.com/Mnt3sJE.png" width="200"></p>
 
-### Lab 2 - QExpy Intro + Measuring the Acceleration of Gravity
+### Lab 3 - Hooke's Law
 
 <p>Download iPython notebook from OnQ (file should have extension .ipynb).</p>
 <p align="center"><img src="https://i.imgur.com/FxcuuAu.png" width="200"></p>
