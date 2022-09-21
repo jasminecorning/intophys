@@ -9,7 +9,7 @@ Welcome to PHYS104/106! This is a simple web resource I'll maintain with details
 <p><i>Group 10:</i> Yididya T., Katrina S., Jack W.</p>
 <p><i>Group 11:</i> Lilli M., Salma K., Sean M., Owen M.</p>
 <p><i>Group 12:</i> Cory G., Zhengyang Y., Kokoa F., Jeong K.</p>
-<p><i>Group 13:</i> Emma S., Lizzie M., Jocelyn A., Ava G.</p>
+<p><i>Group 13:</i> Emma S., Lizzie M., Jocelyn A., Ava G., Samantha S.</p>
 
 ### Housekeeping
 
