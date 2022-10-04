@@ -1,4 +1,4 @@
-# Week 4
+# Week 5
 
 This is a simple web resource I'll maintain with details pertaining to the labs/tutorials of the course, including: current group configurations, assignment questions to focus on in tutorial, tips and tricks for the lab software. To find course resources for all aspects of the class, go to OnQ.
 
