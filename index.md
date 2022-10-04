@@ -51,5 +51,4 @@ How do I submit <i>*insert deliverable here*</i>? When do I need to do <i>*inser
 <p>Lastly, don't hesitate to email me at <b>jmc24@queensu.ca</b> if you need clarification on points, or have some specific questions about something on the assignment, or need anything at all! My inbox is always open to you and it's my job to help.</p>
 
 <p>If you made it this far, here's a meme!</p>
-<p align="center"><img src="https://preview.redd.it/t8wdm7kcojl91.jpg?width=640&crop=smart&auto=webp&s=5ca40ea570e900e6a6455f47d03d031a9ec86e3a"></p>
-<p><a href="https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat">...and the explanation!</a></p>
+<p align="center"><img src="https://preview.redd.it/6owoz5u2tsq91.jpg?width=640&crop=smart&auto=webp&s=5f575b778428b52705084f0e310fd23eff679cc3"></p>
